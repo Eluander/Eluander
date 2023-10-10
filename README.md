@@ -2,10 +2,7 @@
 
 <h2 align="center">⚡⚡⚡ Seja bem vindo a minha página do Github. ⚡⚡⚡ </h2>
 
-- 📫 E-mail: **eluander@gmail.com**
-
-
-<h1 align="center">Contate-me</h1>
+<h4 align="center">Contate-me</h4>
 <div align="center">
   <a href="https://eluander.com.br" target="_blank"><img src="https://img.shields.io/badge/Site-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/eluanderj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
