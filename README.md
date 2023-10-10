@@ -1,13 +1,8 @@
 <h1 align="center">Eluander J. F. Lopes</h1>
 
 <h2 align="center">⚡⚡⚡ Seja bem vindo a minha página do Github. ⚡⚡⚡ </h2>
-<h3 align="justify">Sou desenvolvedor de sistemas web desde 2015 e estou em uma jornada de muito aprendizado. <br />
-Iniciei com a programação <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> e com ela venho trabalhando me atualizando e aprendendo até hoje.  <br />
-E não foi só isso, durante esse tempo também aprendi a desenvolver com outras linguagens, frameworks, bancos de dados e etc...</h3>
 
-- 🔭 Atualmente estou trabalhando com o: [Magios](https://magios.com.br)
-
-- 📫 Você pode me contatar pelo e-mail: **eluander@gmail.com**
+- 📫 E-mail: **eluander@gmail.com**
 
 
 <h1 align="center">Contate-me</h1>
